@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[luk:home|Door43 (luk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-luk|d43-luk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-luk/archive/master.zip|d43-luk.zip]]
+
+**Recent Changes**
+{{changes>ns = luk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/luk|Ethnologue data]]
+
